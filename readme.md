@@ -5,7 +5,7 @@ This repository is not the cleanest I ever done, but it is very use full
 # Presentation
 
 The goal of this code is to create a pre-filled template for every sepcific function.
-It only need the definition sentence (wich can be in split in diffrents lines)
+It only need the definition sentence (wich can be split in diffrents lines)
 
 # Details
 
